@@ -1,0 +1,3 @@
+D:/c_projects/BP_labwork1/cmake-build-debug/CMakeFiles/labwork1.dir
+D:/c_projects/BP_labwork1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c_projects/BP_labwork1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
